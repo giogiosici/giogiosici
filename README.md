@@ -1,4 +1,4 @@
-Ciao, sono Giovanni Sicilia 👋
+Ciao, sono Giovanni Sicilia 👋  
 Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Università degli Studi di Salerno, appassionato di tecnologia e sviluppo software. Qui troverai i progetti su cui lavoro, le mie sperimentazioni e tutto ciò che trovo interessante nel mondo della programmazione.
 
 💻 Linguaggi di programmazione  
@@ -11,13 +11,13 @@ Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Unive
 
 
 🌱 Sto imparando
-Attualmente sto approfondendo le mie conoscenze su:
-Blockchain
+Attualmente sto approfondendo le mie conoscenze su:  
+Blockchain  
 Python
 
-📫 Come raggiungermi
-Email: giovanni.sicilia02@gmail.com
-LinkedIn: https://www.linkedin.com/in/giovanni-sicilia
-⚡ Curiosità
+📫 Come raggiungermi  
+Email: giovanni.sicilia02@gmail.com  
+LinkedIn: https://www.linkedin.com/in/giovanni-sicilia  
+⚡ Curiosità  
 Oltre alla programmazione, mi piace esplorare nuove tecnologie.
 
