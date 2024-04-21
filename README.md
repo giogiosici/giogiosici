@@ -24,7 +24,7 @@ Email: giovanni.sicilia02@gmail.com
 LinkedIn: https://www.linkedin.com/in/giovanni-sicilia  
 ⚡ Curiosità  
 Oltre alla programmazione, mi piace esplorare nuove tecnologie.  
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=giogiosici&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/giogiosici)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=giogiosici&theme=algolia&show_icons=true)](https://github.com/giogiosici)
 
 
