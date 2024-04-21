@@ -10,7 +10,7 @@ Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Unive
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50">
 ![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat&logo=java&logoColor=white)
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50">
 
 
 
