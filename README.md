@@ -5,7 +5,7 @@ Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Unive
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Java EE](https://img.shields.io/badge/-Java_EE-007396?style=flat&logo=java&logoColor=white)
 
