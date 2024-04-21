@@ -2,8 +2,9 @@ Ciao, sono Giovanni Sicilia 👋
 Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Università degli Studi di Salerno, appassionato di tecnologia e sviluppo software. Qui troverai i progetti su cui lavoro, le mie sperimentazioni e tutto ciò che trovo interessante nel mondo della programmazione.
 
 💻 Linguaggi di programmazione  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Python" width="50" height="50">
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="50" height="50">
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
