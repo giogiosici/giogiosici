@@ -24,5 +24,6 @@ Email: giovanni.sicilia02@gmail.com
 LinkedIn: https://www.linkedin.com/in/giovanni-sicilia  
 ⚡ Curiosità  
 Oltre alla programmazione, mi piace esplorare nuove tecnologie.
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giogiosici)](https://github.com/giogiosici/github-readme-stats)
+
 
