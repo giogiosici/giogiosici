@@ -16,8 +16,8 @@ Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Unive
 
 🌱 Sto imparando...
 Attualmente sto approfondendo le mie conoscenze su:  
-*Blockchain  
-*Python
+* Blockchain  
+* Python
 
 📫 Come raggiungermi  
 Email: giovanni.sicilia02@gmail.com  
