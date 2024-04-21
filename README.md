@@ -1,7 +1,7 @@
 Ciao, sono Giovanni Sicilia 👋
 Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Università degli Studi di Salerno, appassionato di tecnologia e sviluppo software. Qui troverai i progetti su cui lavoro, le mie sperimentazioni e tutto ciò che trovo interessante nel mondo della programmazione.
 
-💻 Linguaggi di programmazione
+💻 Linguaggi di programmazione  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
