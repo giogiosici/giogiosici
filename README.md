@@ -14,7 +14,7 @@ Benvenuto nel mio spazio GitHub! Sono uno studente di informatica presso l'Unive
 
 
 
-🌱 Sto imparando...
+🌱 Sto imparando...  
 Attualmente sto approfondendo le mie conoscenze su:  
 * Blockchain  
 * Python
